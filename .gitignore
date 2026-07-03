@@ -10,6 +10,9 @@
 
 /pyrightconfig.json
 
+# xyuan config
+OPD/data
+OPD/model
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
