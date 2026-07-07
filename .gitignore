@@ -10,6 +10,9 @@
 
 /pyrightconfig.json
 
+# zchen config
+OPD/data/math/trainingset
+OPD/model/Qwen
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -121,10 +124,6 @@ ENV/
 
 # ckpt
 *.lock
-
-# data
-*.parquet
-
 
 # local logs
 logs
