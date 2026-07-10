@@ -1,0 +1,11 @@
+{
+  "input_path": "/home2/zc/workspace/xyuan/verl-OPD/OPD/data/medical/benchmark/MedQA.json",
+  "total": 500,
+  "invalid": 52,
+  "valid": 448,
+  "correct": 141,
+  "valid_acc": 0.31473214285714285,
+  "overall_acc": 0.282,
+  "longest_valid_len": 57397,
+  "shortest_invalid_len": 22090
+}

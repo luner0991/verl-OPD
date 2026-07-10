@@ -13,7 +13,8 @@
 # xyuan config
 OPD/data/medical/trainingset
 OPD/data/math/trainingset
-OPD/model
+OPD/model/DeepSeek
+OPD/model/Qwen
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

@@ -1,0 +1,11 @@
+{
+    "input_path": "...",
+    "total": 500,
+    "invalid": 56,
+    "valid": 444,
+    "correct": 404,
+    "valid_acc": 0.9099,
+    "overall_acc": 0.8080,
+    "longest_valid_len": 124452,
+    "shortest_invalid_len":35685
+  }
